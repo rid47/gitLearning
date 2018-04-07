@@ -1,7 +1,6 @@
 Hello from my local pc
 
 
-<- my boss is awesome->
 hello form github
 
 
