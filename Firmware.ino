@@ -172,7 +172,7 @@ void reconnect() {
 } //end reconnect()
 
 
-//------------------------------Publishing sensor data every 1 minutes----------------------------------//
+//------------------------------Publishing sensor data every 1 minute----------------------------------//
 
 
 void sensor_data_publish(){
